@@ -1,0 +1,7 @@
+금일내로 gnb 영상 올릴 예정.
+이시간부론 포폴 github에 올릴 것.
+다음주 화요일까지 완성.
+
+git remote add origin https://github.com/ginsher/portfolio.git
+git config --global user.name "ginsher"
+git config --global user.email "dawon716@naver.com"
