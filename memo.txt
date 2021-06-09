@@ -5,3 +5,5 @@
 git remote add origin https://github.com/ginsher/portfolio.git
 git config --global user.name "ginsher"
 git config --global user.email "dawon716@naver.com"
+
+.gitignore file
